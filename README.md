@@ -1,10 +1,12 @@
 Desafio do Número Secreto
 </br>
+</br>
+</br>
 Desenvolvido em aula:
 </br>
 Desenvolvido a estrutura do jogo com dicas em aula de JS sobre While com a Alura;
 </br>
-<p>Desenvolvido fora da aula:</p>
+Desenvolvido fora da aula:
 </br>
 Aprimorado para o número secreto ser sempre um número aleatório;
 </br>
